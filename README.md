@@ -29,7 +29,7 @@ To get started with the dashboard:
 3. **Review and customize** the report as needed.
 4. *(Optional)* Replace the dataset with your own to reflect your business or project.
 
-## 🛠️ Requirements
+## Requirements
 
 - **Microsoft Power BI Desktop**
 - *(Optional)* Your own dataset (Excel, CSV, SQL, etc.)
@@ -41,7 +41,7 @@ You can modify the dashboard to suit your specific needs:
 - Plug in your data source
 - Add new KPIs or visuals
 - Adjust filters and date ranges
-- Customize layout, colors, and branding
+- Customise layout, colors, and branding
 
 You're welcome to fork this repo or submit pull requests if you build something on top of it!
 
