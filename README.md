@@ -14,13 +14,13 @@ The **Growth Dashboard** provides a comprehensive overview of growth-related KPI
 
 Whether you're analysing monthly, quarterly, or yearly trends, this dashboard helps stakeholders stay informed and aligned.
 
-## 📁 Repository Contents
+## Repository Contents
 
 - `GrowthDashboard.pbix` — Main Power BI report file
 - `README.md` — Project documentation and usage instructions
 - *(Optional)* `data/` — Folder with sample datasets, if provided
 
-## 🚀 Getting Started
+##  Getting Started
 
 To get started with the dashboard:
 
@@ -34,7 +34,7 @@ To get started with the dashboard:
 - **Microsoft Power BI Desktop**
 - *(Optional)* Your own dataset (Excel, CSV, SQL, etc.)
 
-## ✏️ Modify or Extend
+## Modify or Extend
 
 You can modify the dashboard to suit your specific needs:
 
