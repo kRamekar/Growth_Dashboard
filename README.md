@@ -41,7 +41,7 @@ You can modify the dashboard to suit your specific needs:
 - Plug in your data source
 - Add new KPIs or visuals
 - Adjust filters and date ranges
-- Customise layout, colors, and branding
+- Customise layout, colours, and branding
 
 You're welcome to fork this repo or submit pull requests if you build something on top of it!
 
@@ -54,4 +54,4 @@ For questions, feedback, or collaboration, feel free to:
 
 ---
 
-**Visualize your growth. Drive better decisions.**
+**Visualise your growth. Drive better decisions.**
