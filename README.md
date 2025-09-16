@@ -1,6 +1,6 @@
 #  Growth Dashboard – Power BI Project
 
-Welcome to the **Growth Dashboard** Power BI project! This interactive report is designed to track and visualize business growth metrics over time. Use it to monitor performance, spot trends, and make data-driven decisions.
+Welcome to the **Growth Dashboard** Power BI project! This interactive report is designed to track and visualise business growth metrics over time. Use it to monitor performance, spot trends, and make data-driven decisions.
 
 ##  Project Overview
 
@@ -45,7 +45,7 @@ You can modify the dashboard to suit your specific needs:
 
 You're welcome to fork this repo or submit pull requests if you build something on top of it!
 
-## 📬 Contact
+## Contact
 
 For questions, feedback, or collaboration, feel free to:
 
